@@ -6,7 +6,7 @@
 
 Recorridos de los  Árbol (PRE- IN-POST ORDEN)
 
-[Post](https://github.com/GABOHDEZ2001/PROBLEMARIOTEMA4METODOS/blob/main/T4-E2-Problemario/src/M%C3%A9todoDeTrapecio/MetodoTrapecio1.java)
+[PRE- IN-POST ORDEN](ecio1.java)
 
 
 ## Grafos
